@@ -1,4 +1,4 @@
 # CHURN_MODEL
 Churn Prediction model, data exploration/visualization and business recommendations in Python and PowerBI
 
-Link to PBI report: https://app.powerbi.com/groups/me/reports/bd9149b3-d9eb-4f09-813d-1e217da59f7b?ctid=e4bd69ff-e6f7-4c2e-b247-41b54ba2490e
+Link to PBI report: https://app.powerbi.com/view?r=eyJrIjoiMDYyMjFkYzgtY2Y0Ni00NjQ2LTljNjQtYmVjMzQ5YmU0ODljIiwidCI6ImU0YmQ2OWZmLWU2ZjctNGMyZS1iMjQ3LTQxYjU0YmEyNDkwZSIsImMiOjh9
